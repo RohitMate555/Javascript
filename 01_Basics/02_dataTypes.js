@@ -14,5 +14,5 @@ console.log("Rohit")
 //object
 
 console.log(typeof "Funny"); 
-console.log(typeof undefined); 
-console.log(typeof null); 
+console.log(typeof undefined); //undefined
+console.log(typeof null); //object
